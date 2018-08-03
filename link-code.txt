@@ -6,11 +6,11 @@ Animate.css
              
 https://fontawesome.com        -------- icons
 
-http://idangero.us/swiper/       ------- L�m Slider
+http://idangero.us/swiper/       ------- Làm Slider
 
-http://kenwheeler.github.io/slick/   ----L�m Slider
+http://kenwheeler.github.io/slick/   ----Làm Slider
 
-https://color.adobe.com           --------------m� m�u
+https://color.adobe.com           --------------mã màu
 
 https://unsplash.com               -------------background
 
@@ -20,8 +20,8 @@ https://smallenvelop.com/display-loading-icon-page-loads-completely/
 
 http://jsfiddle.net/dreamweiver/3Xm48/11/       ----menu scroll
 
-Library Detector  - thu vi?n ph�t hi?n thu vi?n
+Library Detector  --- thư viện phát hiện thư viện trên chorm dùng để kiểm tra trang web dùng những thư viện gì để viết
 
 https://greensock.com/examples-showcases
 
-https://bootsnipp.com/         -- nhi?u form, menu , slider d?p
+https://bootsnipp.com/         -- nhiều form , menu, slider, hiệu ứng ... đẹp cbo trang web
