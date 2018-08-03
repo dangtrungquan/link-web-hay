@@ -1,0 +1,27 @@
+https://materializecss.com
+
+https://wowjs.uk/
+
+Animate.css         
+             
+https://fontawesome.com        -------- icons
+
+http://idangero.us/swiper/       ------- Làm Slider
+
+http://kenwheeler.github.io/slick/   ----Làm Slider
+
+https://color.adobe.com           --------------mã màu
+
+https://unsplash.com               -------------background
+
+https://tympanus.net/codrops/
+
+https://smallenvelop.com/display-loading-icon-page-loads-completely/
+
+http://jsfiddle.net/dreamweiver/3Xm48/11/       ----menu scroll
+
+Library Detector  - thu vi?n phát hi?n thu vi?n
+
+https://greensock.com/examples-showcases
+
+https://bootsnipp.com/         -- nhi?u form, menu , slider d?p
