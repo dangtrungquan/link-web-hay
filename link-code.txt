@@ -10,6 +10,8 @@ http://idangero.us/swiper/       ------- Làm Slider
 
 http://kenwheeler.github.io/slick/   ----Làm Slider
 
+http://wowslider.com/js-image-slider-premium-page-demo.html#      ----Làm Slider
+
 https://owlcarousel2.github.io/OwlCarousel2/   ----Làm Slider 
 
 https://color.adobe.com           --------------mã màu
