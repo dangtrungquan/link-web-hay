@@ -3,6 +3,8 @@ https://materializecss.com
 https://wowjs.uk/
 
 Animate.css         
+
+https://isotope.metafizzy.co/   --------- Lọc sản phẩm, ....
              
 https://fontawesome.com        -------- icons
 
