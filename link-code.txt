@@ -33,3 +33,5 @@ https://greensock.com/examples-showcases
 https://bootsnipp.com/         -- nhiều form , menu, slider, hiệu ứng ... đẹp cbo trang web
 
 https://mshare.io/ .     -- upload tài liệu
+
+Plugin : Crayon Syntax Highlighter   ---> dùng để hiện code ra bài viết giống IDE, cách sử dụng thêm tag <pre>code ở </pre>
